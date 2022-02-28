@@ -1,0 +1,398 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new dialogue between Dick of Kent, and Wat the Welch-man. Filled up with many pretty conceits, written and printed on purpose to make folks merry in time of sadnesse. / By Laurence Price. This new conceited book will move delights, and serve to passe away some dolesome dayes, also the tedious melancholy nights, for in the same is many a pretty phrase. No harm at all is in't but mirth and joy, then buy it first, then bear't with you away.</title>
+            <author>L. P. (Laurence Price), fl. 1625-1680?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90984</idno>
+            <idno type="STC">Wing P3378</idno>
+            <idno type="STC">Thomason E1487_4</idno>
+            <idno type="STC">ESTC R208488</idno>
+            <idno type="EEBO-CITATION">99867435</idno>
+            <idno type="PROQUEST">99867435</idno>
+            <idno type="VID">170025</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90984)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170025)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 191:E1487[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new dialogue between Dick of Kent, and Wat the Welch-man. Filled up with many pretty conceits, written and printed on purpose to make folks merry in time of sadnesse. / By Laurence Price. This new conceited book will move delights, and serve to passe away some dolesome dayes, also the tedious melancholy nights, for in the same is many a pretty phrase. No harm at all is in't but mirth and joy, then buy it first, then bear't with you away.</title>
+                  <author>L. P. (Laurence Price), fl. 1625-1680?</author>
+               </titleStmt>
+               <extent>[4], 10, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Andrews at the White Lyon in the Old-Baily.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verso of first leaf bears woodcut illustration.</note>
+                  <note>Annotation on Thomason copy: "July. 2".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dialogues, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170025:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 10 -->
+            <p>A NEW DIALOGUE Between <hi>Dick</hi> of <hi>KENT,</hi> AND <hi>Wat</hi> the <hi>Welch-man.</hi>
+            </p>
+            <p>Filled up with many pretty Con<g ref="char:EOLhyphen"/>ceits, written and Printed on purpoſe to make folks merry in time of ſadneſſe.</p>
+            <p>By <hi>LA<g ref="char:V">Ʋ</g>RENCE PRICE.</hi>
+            </p>
+            <q>
+               <l>This New conceited Book will move Delights,</l>
+               <l>And ſerve to paſſe away ſome doleſome dayes,</l>
+               <l>Alſo the tedious melancholy nights,</l>
+               <l>For in the ſame is many a pretty phraſe.</l>
+               <l>No harm at all is in't but mirth and joy,</l>
+               <l>Then buy it firſt, then bear't with you away.</l>
+            </q>
+            <p>LONDON, Printed for <hi>John Andrews</hi> at the White Lyon in the Old-Baily. 1654.</p>
+         </div>
+         <div type="frontispiece">
+            <pb facs="tcp:170025:2"/>
+            <!-- PDF PAGE 11 -->
+            <p>
+               <figure/>
+            </p>
+            <pb facs="tcp:170025:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 11 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:170025:3"/>
+            <!-- PDF PAGE 12 -->
+            <pb n="1" facs="tcp:170025:3"/>
+            <!-- PDF PAGE 12 -->
+            <head>A New Dialogue between <hi>Dick</hi> of <hi>Kent,</hi> and <hi>Wat</hi> the <hi>Welch-man.</hi>
+            </head>
+            <sp>
+               <speaker>Dick of Kent.</speaker>
+               <p>COme who buyes my new merry Books?</p>
+               <lg>
+                  <l>
+                     <hi>Here's new News, and true News,</hi>
+                  </l>
+                  <l>
+                     <hi>from all the world ever,</hi>
+                  </l>
+                  <l>
+                     <hi>From</hi> Scotland, <hi>from</hi> Holland,</l>
+                  <l>
+                     <hi>from</hi> Calice, <hi>and</hi> Dover.</l>
+                  <l>
+                     <hi>News as you ſhall underſtand,</hi>
+                  </l>
+                  <l>
+                     <hi>From every part of fair</hi> England,</l>
+                  <l>
+                     <hi>News from</hi> Briſtol, <hi>and from</hi> Gloceſter,</l>
+                  <l>
+                     <hi>News from</hi> Worceſter, <hi>and from</hi> Siceſter,</l>
+                  <l>
+                     <hi>News from</hi> Cornwall, <hi>and from</hi> Wales,</l>
+                  <l>
+                     <hi>From</hi> Suſſex <hi>Hils, and</hi> Surrey <hi>Dales.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Amongſt the reſt 'tis my intent</hi>
+                  </l>
+                  <l>
+                     <hi>To ſpeak of News come out of</hi> Kent;</l>
+                  <l>
+                     <hi>Then what is he that will refuſe</hi>
+                  </l>
+                  <l>
+                     <hi>To buy my new conceited News</hi>
+                  </l>
+               </lg>
+            </sp>
+            <pb n="2" facs="tcp:170025:4"/>
+            <!-- PDF PAGE 13 -->
+            <sp>
+               <speaker>Wat the Welchman.</speaker>
+               <p>I prethee if thy News be ſo good, let me hear thee read it, peradventure here are ſome that will buy ſome of thy News books to carry into the Country with them, and others that lives in the City will buy News to make themſelves mer<g ref="char:EOLhyphen"/>ry at home, for all the world now adayes deſires to hear News, and ſince we have not ſeen each other this many a long day, I would have thee in the firſt place to tell me where thou haſt been, how thou haſt behaved thy ſelf, and what honourable deeds thou haſt done ſince thou haſt been out of <hi>England,</hi> for I underſtand thou haſt been a Traveller in foreign Countries.</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <l>
+                  <hi>Why then Ile tell thee ſuch ſtrange News,</hi>
+               </l>
+               <l>
+                  <hi>That cannot chuſe but make thee muſe.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Wat.</speaker>
+               <p>Speak on, and ſpare not, for I long to hear thee diſcourſe.</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>When firſt I took my leave of my na<g ref="char:EOLhyphen"/>tive Country Kent, where I was born, I
+<pb n="3" facs="tcp:170025:4"/>
+                  <!-- PDF PAGE 13 -->took ſhipping at Dover, and landed at Calice in France.</p>
+            </sp>
+            <sp>
+               <speaker>Wat.</speaker>
+               <p>Well, ſpeak on.</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>I travelled through many parts of France, and was made wonderfull wel<g ref="char:EOLhyphen"/>come in every place where I came, ſo long as my mony would hold, and after<g ref="char:EOLhyphen"/>wards I took up Arms, and became a Souldier.</p>
+            </sp>
+            <sp>
+               <speaker>Wat.</speaker>
+               <p>Wer't thou a Souldier in France?</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>There's never a man in all this company can deny it.</p>
+            </sp>
+            <sp>
+               <speaker>Wat.</speaker>
+               <p>How long waſt thou a Souldier?</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>So long as till I had received a puſh with a Pike, a cut with a Sword, a knock with a Pole axe, and a ſhot with a Bullet, and then I threw down my Arms, and betook my ſelf to my legs.</p>
+            </sp>
+            <sp>
+               <speaker>Wat.</speaker>
+               <p>How many men didſt thou kill, whilſt thou waſt in the Wars of <hi>France.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>I kill'd but one man.</p>
+            </sp>
+            <sp>
+               <speaker>Wat.</speaker>
+               <p>VVhat but one man, tell me how thou didſt kill that one man?</p>
+            </sp>
+            <sp>
+               <speaker>Dick</speaker>
+               <p>I did cut off his legs.</p>
+            </sp>
+            <pb n="4" facs="tcp:170025:5"/>
+            <!-- PDF PAGE 14 -->
+            <sp>
+               <speaker>Wat.</speaker>
+               <p>O thou fool, thou ſhouldeſt have cut off his head.</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>Why thou ſilly Aſſe, his head was cut off before.</p>
+            </sp>
+            <sp>
+               <speaker>Wat.</speaker>
+               <p>But what ſhift didſt thou make to come into <hi>England</hi> again.</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>I did as others had done before me, I travelled from one place to ano<g ref="char:EOLhyphen"/>ther, I made many excuſes, ſometimes I got in favour with my Hoſtices and Land<g ref="char:EOLhyphen"/>ladies, ſometimes with the Maids, ſome<g ref="char:EOLhyphen"/>times good Fellows would beſtow kind<g ref="char:EOLhyphen"/>neſſe upon me, and ſo by degrees I came to a place where was a Ship bound for <hi>England,</hi> in which I happily got into, and in a ſhort time was landed in <hi>Cornwall.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Wat.</speaker>
+               <p>What is the beſt news in <hi>Corn<g ref="char:EOLhyphen"/>wall, Devon ſhire, Somerſet-ſhire, Dorſet, Wiltſhire<g ref="char:punc">▪</g> Briſtow, Gloceſter ſhire, Worceſter<g ref="char:EOLhyphen"/>ſhire, Ciceſter, Hamp ſhire, Surry, Suſſex,</hi> and all the reſt of the Countries which thou haſt paſt <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow ſince thou cameſt on ſhore, tell me the truth of all as near as thou canſt, and it will be a credit for thee all the days of thy life, for the old Pro<g ref="char:EOLhyphen"/>verb
+<pb n="5" facs="tcp:170025:5"/>
+                  <!-- PDF PAGE 14 -->runs thus; <hi>Tell truth and ſhame the Devil.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>Why then the truth of the mat<g ref="char:EOLhyphen"/>ter is this, That in all the parts of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> where I have been, the Country people are much like the Citizens of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> there is Coverouſneſſe, Perjury, For<g ref="char:EOLhyphen"/>gery, Extortion, Drunkenneſs, Whore<g ref="char:EOLhyphen"/>dom, Blaſphemy, Wrathfulneſs, Pride, Envie, Hatred, and Malice, inſomuch that a man can hardly know his friends from his foes.</p>
+            </sp>
+            <sp>
+               <speaker>Wat.</speaker>
+               <p>How do the people ſtand affect<g ref="char:EOLhyphen"/>ed to Religion, or what opinion are they of? if thou canſt give me ſatisfaction, and anſwer me ſafely to this queſtion, I ſhall love thee the better all the days of my life, and it will bee a means to make thy Books ſell the better all <hi>England</hi> over.</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>As for my part I will tell you nothing but what I have heard, ſeen, and known by experience, and thus it is; In all places through <hi>England</hi> the people are of many ſeverall opinions concerning
+<pb n="6" facs="tcp:170025:6"/>
+                  <!-- PDF PAGE 15 -->Religion, ſome ſays the Old Religion is the beſt, ſome holds with the Papiſt, ſome with the Proteſtant, ſome with the Anabaptiſt; ſome are of this opinion, that we ſhall never ſee nor have good days in <hi>England</hi> til ſuch time as the Book of Common Prayer is read in all the Churches and Pariſhes in <hi>England,</hi> ac<g ref="char:EOLhyphen"/>cording as it was in former times; and others there be that would have all the Churches pulled down.</p>
+            </sp>
+            <sp>
+               <speaker>Wat.</speaker>
+               <p>This cannot chuſe indeed but breed a great diſtraction through every City, Shire, and Country in <hi>England, Scotland, Wales,</hi> and any other place where ſuch doings is uſed; are not former friends become new enemies about theſe matters?</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>Too true it is, that friends are be<g ref="char:EOLhyphen"/>come enemies about this matter, for this makes the buſineſs ſo hainous amongſt many that the Father cannot abide his own Children, the Wife cannot agree with her Husband; the Brothers and Si<g ref="char:EOLhyphen"/>ſters falls to diſcord, and one Neighbour
+<pb n="7" facs="tcp:170025:6"/>
+                  <!-- PDF PAGE 15 -->is ready to pick out another Neighbours eyes, and all about matters of Religion, and ſundry opinions; and to bee brief, this makes rich men to deſpiſe the poor, and many poor men to fall into deſpair, and except it be the ſooner prevented, it is like to bring the whole Land to deſtru<g ref="char:EOLhyphen"/>ction.</p>
+            </sp>
+            <sp>
+               <speaker>Wat.</speaker>
+               <p>Now Brother <hi>Dick</hi> I ſee that thou haſt thy wits about thee, and more<g ref="char:EOLhyphen"/>over I finde thee to be a man of a good Conſcience, for thou haſt ſpoken the truth to the life, but now I would deſire thee to leave off thy ſolid diſcourſe, and to talk of ſome meriment, which may make thy auditors a little light-hearted.</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>Then wil I tel thee of a Jeſt that was done in <hi>Old Street</hi> near unto <hi>London,</hi> &amp; this it was; A man that married a wife for lucre of twenty pound, of which hee had ten pound readily in hand, and the other ten pound he was to receive at the birth of his wifes firſt Childe, but he either for want of skil, or ability, could not get his wife with childe himſelf, and therefore
+<pb n="8" facs="tcp:170025:7"/>
+                  <!-- PDF PAGE 16 -->hired another man, and promiſed to give him one half of the money if hee would undertake to do the deed for him, which bargain being made he brought the man to his wives Bed, and ſo ſhe thinking it had been her Husband, there being no light in the room, entertained him very kindly at the firſt, but when ſhe found by his acti<g ref="char:EOLhyphen"/>ons that it was not him that ſhe lookt for, ſhe preſently cried out ſo loud, that although it was twelve a clock at night, that her Neighbours heard her cry, and came running to help her; whereup<g ref="char:EOLhyphen"/>on her Husband and the other both depar<g ref="char:EOLhyphen"/>ted, and ſo the room was rid of a couple of knaves.</p>
+            </sp>
+            <sp>
+               <speaker>Wat.</speaker>
+               <p>This was a notable Jeſt indeed, it is well the good woman ſaved her ho<g ref="char:EOLhyphen"/>neſty, but for her Husbands part I wiſh him no other puniſhment but this; That he might have a tired Horſe to ride a long journy in dirty weather, with a Whore behind him, and never a penny in his pocket, and to be kept faſting both from meat and drink, till ſuch times that hee
+<pb n="9" facs="tcp:170025:7"/>
+                  <!-- PDF PAGE 16 -->have made his honeſt wife ſatisfaction for the wrongs he did her. And now I will tell thee of as good a jeſt as this which was done in <hi>Wales.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>Prethee ſpeak on, for I have heard no news cut of <hi>Wales</hi> ſince the <hi>Welch</hi> Ambaſſador left off his merry Note.</p>
+            </sp>
+            <sp>
+               <speaker>Wat.</speaker>
+               <p>There was upon a high craggy Mountain in a Town where no body dwels, two men which ſent their wives to Market to buy proviſion for their fa<g ref="char:EOLhyphen"/>milies, but by the way as they were going, one of the women ſeeing a handſome young man coming to meet them, took an occaſion to ſtay behind, her neighbour being willing to have ſome ſecret diſcourſe with the young man, ſo the one woman being gone before, the young man met with the other; and ſo having made a haſty bargain, he laid her down in a hay<g ref="char:EOLhyphen"/>cock.</p>
+               <l>
+                  <hi>But what he did to her I cannot tell,</hi>
+               </l>
+               <l>
+                  <hi>It ſeems ſhe pleas'd the young man well.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Dick</speaker>
+               <p>Well, but what came after all
+<pb n="10" facs="tcp:170025:8"/>
+                  <!-- PDF PAGE 17 -->their buſineſſe, let me know that?</p>
+            </sp>
+            <sp>
+               <speaker>Wat.</speaker>
+               <l>
+                  <hi>The young man gave her half a crown</hi>
+               </l>
+               <l>
+                  <hi>For the kindneſs ſhe to him had ſhown.</hi>
+               </l>
+               <p>And ſo having taken her leave lovingly of the young man went apace, and quickly overtook her neighbor, and to make ſhort of my Tale, ſhe bought her ſelf a new pair of ſhooes with the half crown which ſhe had gotten by the ſweat of he But—; at night when they came home to their hus<g ref="char:EOLhyphen"/>bands, one with a new pair of ſhooes, and the other almoſt bare-foot, wherefore the one man demands of his wife what ſhould be the reaſon ſhe had not got her a new pair of ſhooes as well as her neigh<g ref="char:EOLhyphen"/>bour; Marry quoth ſhe the other woman lay with a man in a hay cock, and he gave her half a crown, and that was the mony which bought her the new ſhooes.</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>VVell, what ſaid her husband to her then?</p>
+            </sp>
+            <sp>
+               <speaker>Wat.</speaker>
+               <p>You Whore quoth he, were not you as wel able to get the mony as ſhe, for this cauſe wil I never buy thee new ſhoos again whilſt I live, and therewith all fell a beat<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:170025:8"/>
+                  <!-- PDF PAGE 17 -->his honeſt wife, as if he would have kill'd her, who falling on her knees cry<g ref="char:EOLhyphen"/>ing out, Good husband, hold your hands at this time, and the next time that I go to the Marker, I will get new ſhooes for you and my ſelf too.</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>This was ſuch a trick that I ne<g ref="char:EOLhyphen"/>ver heard the like in all my life, and it is fit that that man ſhould ſoundly be pu<g ref="char:EOLhyphen"/>niſhed for his faults with more ſeverity then he that put another man to bed with his wife.</p>
+            </sp>
+            <sp>
+               <speaker>Wat.</speaker>
+               <p>VVell, what puniſhment wouldſt thou alot him if thou mighteſt rule the roaſt.</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>I would have him on a hot Sun ſhining day to be ſtript ſtark naked, to be anointed with <hi>Hampſhire-hony,</hi> &amp; to be tyed to a Poſt, till ſuch time the Bees had ea<g ref="char:EOLhyphen"/>ten up his fleſh, and afterwards I would have his bones not to be buryed, but to be thrown into Cuckolds-haven, and that all the Cuckolds both in <hi>London</hi> and in the Country, might blow their Horns, and make a Holy day for his ſake.</p>
+               <p>
+                  <hi>Come, who buyes my New Merry Books?</hi>
+               </p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:170025:9"/>
+            <!-- PDF PAGE 18 -->
+            <p>
+               <figure/>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
